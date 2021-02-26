@@ -14,10 +14,10 @@
 #### *JavaScript
 
 ### Front End para desktop
-![Tela inicial](./images/desktop.gif)
+![Tela inicial](./images/desktop1.gif)
 
 ### Front End para celular
-![Tela Inicial](./images/celular.gif)
+![Tela Inicial](./images/celular2.gif)
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
