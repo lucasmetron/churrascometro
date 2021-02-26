@@ -30,20 +30,39 @@ h1{
 
 .bt{
     display: inline-block;
-    border: solid rgb(133,199,10, 0.9) ;
+    border: solid ;
     border-radius: 10px;
     color: white;
     font-weight: 900;
     font-size: 1.1em;
     padding: 10px;
     margin-bottom: 15px;
+    margin-left: 5px;
+    
+}
+
+.verde{
+    border: rgb(133,199,10, 0.9) ;
     background-color: rgb(133,199,10,0.8);
 }
 
-.bt:hover{
+.verde:hover{
     background-color: rgb(197,245,46);
     color: black;
     border: solid rgb(133,199,10, 0.9) ;
+}
+
+.vermelho{
+
+    border: rgb(133,199,10, 0.9) ;
+    background-color: rgb(236,48,35);
+}
+
+.vermelho:hover{
+    
+    background-color: rgb(236,97,80);
+    color: black;
+    border: solid rgb(236,48,35) ;
 }
 
 input{
