@@ -10,7 +10,7 @@ body{
 
 .conteiner{
    text-align: center;
-   margin-top: 10%;
+   margin-top: 50px;
 }
 
 h1{
@@ -19,7 +19,10 @@ h1{
 }
 
 .churrascometro{
-    padding: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 30px;
     display: inline-block;
     margin: auto;
     background-color: rgba(247, 162, 89, 0.9);
@@ -62,5 +65,20 @@ input{
     display: inline-block;
     padding: 10px;
     font-weight: 500;
+}
+
+@media screen and (max-width: 480px){
+
+
+.churrascometro{
+    padding: 25px;
+    display: inline-block;
+    margin: auto;
+    background-color: rgba(247, 162, 89, 0.9);
+}
+
+
+
+
 }
 

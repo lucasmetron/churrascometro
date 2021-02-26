@@ -1,14 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/style.css">
+    <link rel="icon" href="./images/icon.png">
     <title>Churrascometro</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    
+    <div class="conteiner">
+        
+        <div class="churrascometro">
+            <h1>Churrascometro</h1>
+            <input type="text" id="adultos" placeholder="N° de Adultos"></input><br><br>
+            <input action="text" id="criancas" placeholder="N° de Crianças"></input><br><br>
+            <input action="text" id="duracao" placeholder="N° de Duração (h)"></input><br><br>
+            <p class="bt" onclick="capturarInf()" window.location.reload()>Calcular</p> <br>
+
+            <p id="resultado" class="resultado">  </p>
+
+           
+        </div>
+
+        <div>
+            <p class="dev">Desenvolvido por Lucas Rosa :D</p>
+        </div>
+
+    </div>
     <script src="./scripts/script.js"></script>
 </body>
 </html>
