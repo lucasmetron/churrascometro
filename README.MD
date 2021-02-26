@@ -17,7 +17,7 @@
 ![Tela inicial](./images/desktop1.gif)
 
 ### Front End para celular
-![Tela Inicial](./images/celular2.gif)
+![Tela Inicial](./images/celular1.gif)
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
