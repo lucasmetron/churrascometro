@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+}
+body{
+    background-image: url(../images/barbecue-design-elements-grill-summer-food_87689-163.jpg);
+    
+}
+
+.conteiner{
+   text-align: center;
+   margin-top: 10%;
+}
+
+h1{
+    margin-bottom:15px ;
+    color: white;
+}
+
+.churrascometro{
+    padding: 70px;
+    display: inline-block;
+    margin: auto;
+    background-color: rgba(247, 162, 89, 0.9);
+}
+
+.bt{
+    display: inline-block;
+    border: solid rgb(133,199,10, 0.9) ;
+    border-radius: 10px;
+    color: white;
+    font-weight: 900;
+    font-size: 1.1em;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: rgb(133,199,10,0.8);
+}
+
+.bt:hover{
+    background-color: rgb(197,245,46);
+    color: black;
+    border: solid rgb(133,199,10, 0.9) ;
+}
+
+input{
+    box-shadow: 0px 0px 0px 0px;
+    outline: 0;
+    -moz-outline-radius: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.resultado{
+    color: white;
+    font-size:1.1em;
+    font-weight: 500;
+}
+
+.dev{
+    background-color: rgb(197,245,46);
+    display: inline-block;
+    padding: 10px;
+    font-weight: 500;
+}
+
