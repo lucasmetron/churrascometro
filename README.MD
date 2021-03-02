@@ -19,6 +19,7 @@
 ### Front End para celular
 ![Tela Inicial](./images/celular1.gif)
 
+### Veja o projeto você mesmo! Acesse: https://dazzling-colden-886a52.netlify.app/
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
 [Linkedin](https://www.linkedin.com/in/lucas-rosa-058683102/) <br/>
